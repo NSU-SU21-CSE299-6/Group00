@@ -14,9 +14,4 @@
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1713032042</p>
 <p align="center"><strong>Email</strong><strong>:</strong>
 <a href="mailto:shaikh.shimon@northsouth.edu">shaikh.shimon@northsouth.edu</a></p>
-<p align="center"><strong><u>Member 2</u></strong><strong><u>:</u></strong></p>
-<p align="center"><strong>Name</strong><strong>:</strong> MD Hasan Ud-Doula</p>
-<p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1620545042</p>
-<p align="center"><strong>Email</strong><strong>:</strong> <a href="mailto:ud.doula@northsouth.edu">ud.doula@northsouth.edu</a></p>
-<p align="center"><strong>Git Repository</strong><strong>: </strong><a href="https://github.com/WasekRahman/SU19CSE299S16G07NSU/">https://github.com/WasekRahman/SU19CSE299S16G07NSU/</a></p>
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>20/06/2019</p>

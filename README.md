@@ -8,7 +8,7 @@
 <p align="center"><strong>Summer 2021</strong></p>
 <p align="center"><strong>Project Name</strong>: DEMO PROJECT FOR SUMMER 2021</p>
 <p align="center"><strong>Course No</strong>: CSE 299 <strong>Sec</strong><strong>:</strong> 16</p>
-<p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (Sas3)</p>
+<p align="center"><strong>Faculty</strong>: Shaikh Shawon Arefin Shimon (SAS3)</p>
 <p align="center"><strong><u>Member 1</u></strong><u>:</u></p>
 <p align="center"><strong>Name</strong><strong>:</strong> SHAIKH SHAWON AREFIN SHIMON</p>
 <p align="center"><strong>ID</strong><strong>:&nbsp; </strong>1713032042</p>

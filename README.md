@@ -15,5 +15,3 @@
 <p align="center"><strong>Email</strong><strong>:</strong>
 <a href="mailto:shaikh.shimon@northsouth.edu">shaikh.shimon@northsouth.edu</a></p>
 <p align="center"><strong>Date Prepared</strong><strong>: </strong>20/06/2019</p>
-
-Test add one line.
